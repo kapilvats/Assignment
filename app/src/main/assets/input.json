@@ -1,0 +1,246 @@
+{
+  "totalCount": 50,
+  "products": [
+    {
+      "id": 1,
+      "title": "Title 1",
+      "description": null,
+      "price": 1,
+      "soldOut": false,
+      "availableOn": null,
+      "boostFactor": 1,
+      "keywords": [],
+      "categories": [],
+      "productProperties": [],
+      "specifications": []
+    },
+    {
+      "id": 6,
+      "title": "Title 6",
+      "description": null,
+      "price": 6,
+      "soldOut": true,
+      "availableOn": null,
+      "boostFactor": 1,
+      "keywords": [],
+      "categories": [],
+      "productProperties": [],
+      "specifications": []
+    },
+    {
+      "id": 13,
+      "title": "Title 13",
+      "description": null,
+      "price": 13,
+      "soldOut": false,
+      "availableOn": null,
+      "boostFactor": 1,
+      "keywords": [],
+      "categories": [],
+      "productProperties": [],
+      "specifications": []
+    },
+    {
+      "id": 18,
+      "title": "Title 18",
+      "description": null,
+      "price": 18,
+      "soldOut": true,
+      "availableOn": null,
+      "boostFactor": 1,
+      "keywords": [],
+      "categories": [],
+      "productProperties": [],
+      "specifications": []
+    },
+    {
+      "id": 20,
+      "title": "Title 20",
+      "description": null,
+      "price": 20,
+      "soldOut": true,
+      "availableOn": null,
+      "boostFactor": 1,
+      "keywords": [],
+      "categories": [],
+      "productProperties": [],
+      "specifications": []
+    },
+    {
+      "id": 25,
+      "title": "Title 25",
+      "description": null,
+      "price": 25,
+      "soldOut": false,
+      "availableOn": null,
+      "boostFactor": 1,
+      "keywords": [],
+      "categories": [],
+      "productProperties": [],
+      "specifications": []
+    },
+    {
+      "id": 32,
+      "title": "Title 32",
+      "description": null,
+      "price": 32,
+      "soldOut": true,
+      "availableOn": null,
+      "boostFactor": 1,
+      "keywords": [],
+      "categories": [],
+      "productProperties": [],
+      "specifications": []
+    },
+    {
+      "id": 37,
+      "title": "Title 37",
+      "description": null,
+      "price": 37,
+      "soldOut": false,
+      "availableOn": null,
+      "boostFactor": 1,
+      "keywords": [],
+      "categories": [],
+      "productProperties": [],
+      "specifications": []
+    },
+    {
+      "id": 44,
+      "title": "Title 44",
+      "description": null,
+      "price": 44,
+      "soldOut": true,
+      "availableOn": null,
+      "boostFactor": 1,
+      "keywords": [],
+      "categories": [],
+      "productProperties": [],
+      "specifications": []
+    },
+    {
+      "id": 49,
+      "title": "Title 49",
+      "description": null,
+      "price": 49,
+      "soldOut": false,
+      "availableOn": null,
+      "boostFactor": 1,
+      "keywords": [],
+      "categories": [],
+      "productProperties": [],
+      "specifications": []
+    }
+  ],
+  "facets": [
+    {
+      "code": "searchfacettype_product_type_level_1",
+      "facetResultEntries": [
+        {
+          "term": "Computer",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "code": "searchfacettype_product_type_level_2",
+      "facetResultEntries": [
+        {
+          "term": "Laptops",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "code": "searchfacettype_age_level_1",
+      "facetResultEntries": [
+        {
+          "term": "Age",
+          "count": 45
+        }
+      ]
+    },
+    {
+      "code": "searchfacettype_age_level_2",
+      "facetResultEntries": [
+        {
+          "term": "0-12 years",
+          "count": 30
+        },
+        {
+          "term": "12-18 years",
+          "count": 10
+        },
+        {
+          "term": "18 + years",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "code": "searchfacettype_brand_level_1",
+      "facetResultEntries": [
+        {
+          "term": "Brands",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "code": "searchfacettype_brand_level_2",
+      "facetResultEntries": [
+        {
+          "term": "Apple",
+          "count": 20
+        },
+        {
+          "term": "Dell",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "code": "searchfacettype_color_level_1",
+      "facetResultEntries": [
+        {
+          "term": "Colors",
+          "count": 40
+        }
+      ]
+    },
+    {
+      "code": "searchfacettype_color_level_2",
+      "facetResultEntries": [
+        {
+          "term": "Blue",
+          "count": 5
+        },
+        {
+          "term": "Green",
+          "count": 30
+        },
+        {
+          "term": "Red",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "code": "product_price_range",
+      "facetResultEntries": [
+        {
+          "term": "0.0 - 10.0",
+          "count": 10
+        },
+        {
+          "term": "10.0 - 20.0",
+          "count": 10
+        },
+        {
+          "term": "20.0 - 100.0",
+          "count": 30
+        }
+      ]
+    }
+  ]
+}

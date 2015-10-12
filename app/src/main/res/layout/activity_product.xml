@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ProductActivity">
+
+    <TextView
+        android:id="@+id/txt_product_size"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:height="50dp"
+        android:padding="8dp"
+        android:gravity="center_vertical"
+        android:textColor="#F6F6F6"
+        android:textSize="22sp"
+        android:background="#2B2B2B"
+        android:text="Total Products : 100"/>
+
+    <ExpandableListView
+        android:id="@+id/exp_list_facets"
+        android:layout_width="match_parent"
+        android:groupIndicator="@null"
+        android:layout_height="wrap_content"
+        android:fastScrollEnabled="true"></ExpandableListView>
+</LinearLayout>
